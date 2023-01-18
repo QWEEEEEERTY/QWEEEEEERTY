@@ -14,23 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Webmessage</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
-    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
-    <link rel="stylesheet" href="styles2.css">
-    <script>
-        const audio = new Audio();
-        audio.src = "click.mp3";
-
-    </script>
-</head>
 <body style="background-image: url('images/background.jpg');
 height: 100%;
 background-position: center;
@@ -108,4 +91,3 @@ background-size: auto;">
 <footer class="conteiner-fluid text-center p-5 text-white" style="background-color: #25064d;"><h2>Powered by</h2><h2 style="color: blue;">webmessage.com</h2></footer>
 
 </body>
-</html>
